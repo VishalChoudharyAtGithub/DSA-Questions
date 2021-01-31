@@ -1,3 +1,5 @@
+GFG link - https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
+
 public class Sort012 {
     public static void sort012(int a[], int n){
         // [1,0,0,2,1,2,0]
