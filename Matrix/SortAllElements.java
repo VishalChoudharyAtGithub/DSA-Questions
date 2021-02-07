@@ -1,3 +1,5 @@
+// Problem link - https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1
+
 class Solution {
     int[][] sortedMatrix(int N, int Mat[][]) {
         // code here
