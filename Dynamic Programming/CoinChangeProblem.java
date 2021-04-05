@@ -1,5 +1,5 @@
 // Problem - https://practice.geeksforgeeks.org/problems/coin-change2448/1
-
+// return number of possible combination of coins such that their sum is equal to given value
 class Solution
 {
     
